@@ -792,6 +792,11 @@ img {
     1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
+.portfolio-card-text {
+  border: 1px solid #eeeeee;
+  padding: 20px 24px;
+}
+
 .portfolio-list-title {
   font-weight: bold;
   font-size: 18px;
@@ -834,9 +839,4 @@ img {
 
 .portfolio-item:hover .portfolio-overlay {
   transform: translateY(0);
-}
-
-.portfolio-card-text {
-  border: 1px solid #eeeeee;
-  padding: 20px 24px;
 }
